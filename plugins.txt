@@ -1,0 +1,7 @@
+﻿- Advanced Custom Fields
+- All In One SEO Pack
+- BackWPup
+- Rate This Page Plugin
+- Regenerate Thumbnails
+- Simple Twitter Plugin
+- Tiled Galleries Carousel Without Jetpack
